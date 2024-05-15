@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\Algorytmy\Algorytmy\bin\Debug\net6.0\Algorytmy.exe
+C:\Users\student\source\repos\Algorytmy\Algorytmy\bin\Debug\net6.0\Algorytmy.deps.json
+C:\Users\student\source\repos\Algorytmy\Algorytmy\bin\Debug\net6.0\Algorytmy.runtimeconfig.json
+C:\Users\student\source\repos\Algorytmy\Algorytmy\bin\Debug\net6.0\Algorytmy.dll
+C:\Users\student\source\repos\Algorytmy\Algorytmy\bin\Debug\net6.0\Algorytmy.pdb
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\Algorytmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\Algorytmy.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\Algorytmy.AssemblyInfo.cs
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\Algorytmy.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\Algorytmy.dll
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\refint\Algorytmy.dll
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\Algorytmy.pdb
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\Algorytmy.genruntimeconfig.cache
+C:\Users\student\source\repos\Algorytmy\Algorytmy\obj\Debug\net6.0\ref\Algorytmy.dll
